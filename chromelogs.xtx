@@ -1,0 +1,96 @@
+[3977:30723:0828/144919.127470:ERROR:audio_rtp_receiver.cc(87)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[3977:30723:0828/150906.322837:ERROR:audio_rtp_receiver.cc(87)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[3933:40707:0828/151137.663317:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 166 is too big.
+[3924:27395:0828/160144.436981:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+[3924:27395:0828/160211.634216:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+[3924:27395:0828/160310.742415:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+[3924:27395:0828/160450.918257:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+[3924:27395:0828/160823.175418:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+[3934:12547:0828/160853.371072:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/160853.507117:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3933:40707:0828/160853.573795:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 138 is too big.
+[3934:12547:0828/161054.930097:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/161055.134684:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/161055.139817:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3924:27395:0828/161717.608152:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+[3934:12547:0828/161855.317717:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/162254.936609:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/162255.137238:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/162255.145533:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/162255.148618:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[7957:62979:0828/163056.290030:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+[7957:62979:0828/163056.290060:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+[7957:62979:0828/163056.292578:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+[7957:62979:0828/163056.292607:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+[3933:40707:0828/163920.326188:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+[3933:40707:0828/164303.706906:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 106 is too big.
+[3924:27395:0828/171405.688342:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+[3924:27395:0828/171435.479159:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+[3924:27395:0828/171527.936329:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+[3924:27395:0828/171713.654716:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+[3924:27395:0828/172107.342334:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+[3924:27395:0828/172320.938981:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[3924:27395:0828/174241.274541:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+[3934:12547:0828/174342.357659:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/174342.859403:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/174458.738599:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/175305.690481:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/175305.780317:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3933:40707:0828/175729.610575:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 167 is too big.
+[3924:27395:0828/180324.986590:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+[3924:27395:0828/180349.549520:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+[3924:27395:0828/180441.730998:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+[3934:12547:0828/180531.566633:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/180531.578470:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/180600.097219:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/180600.098251:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3924:27395:0828/181138.061297:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+[3924:27395:0828/181321.350926:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -105
+[3924:27395:0828/181421.186741:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -105
+[3924:27395:0828/181551.286956:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -105
+[3924:775:0828/181653.716802:ERROR:gcm_channel_status_request.cc(146)] GCM channel request failed.
+[3924:27395:0828/181654.234144:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+[3924:775:0828/181718.371939:ERROR:gcm_channel_status_request.cc(146)] GCM channel request failed.
+[3934:12547:0828/181823.905872:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3933:40707:0828/182528.983908:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 152 is too big.
+[3933:40707:0828/182627.703327:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 130 is too big.
+[3934:12547:0828/182730.109808:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[13329:30467:0828/184136.902303:ERROR:audio_rtp_receiver.cc(87)] AudioRtpReceiver::OnSetVolume: No audio channel exists.
+[3924:27395:0828/191621.610387:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+[3924:27395:0828/191648.927243:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+[3924:27395:0828/191736.171805:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+[3924:27395:0828/191900.963126:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+[3934:12547:0828/192104.620847:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/192233.068135:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/192417.979070:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/192420.981056:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/192818.911846:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/192908.332326:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/193254.197751:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/193706.677769:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/193724.446044:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/193724.453240:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/194106.345814:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/194348.376677:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/194651.898839:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/194757.316152:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/194901.182186:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/195053.518489:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/195149.136694:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/195149.137299:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/195454.896454:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/195455.862793:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/195455.864242:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/195539.567990:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/195539.673107:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3924:27395:0828/195814.867681:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[3924:27395:0828/202646.663950:ERROR:socket_stream.cc(219)] Closing stream with result -2
+[3934:12547:0828/202935.222376:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/203408.437024:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/203408.547937:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/213549.521220:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/213549.623197:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/213549.628621:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/213549.630672:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/213549.631978:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205
+[3934:12547:0828/220058.466567:ERROR:ssl_client_socket_impl.cc(943)] handshake failed; returned -1, SSL error code 1, net_error -205

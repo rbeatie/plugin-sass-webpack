@@ -1,0 +1,13 @@
+[
+  {
+    "name": "TestCracoPlugin",
+    "version": "0.0.0",
+    "class": "TestCracoPlugin",
+    "requires": [
+      {
+        "@twilio/flex-ui": "^1"
+      }
+    ],
+    "src": "http://localhost:3000/plugin-test-craco.js"
+  }
+]
